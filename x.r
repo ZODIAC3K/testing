@@ -1,2 +1,2 @@
-zodiac = "Hello World!"
+zodiac <- "Hello World!"
 print(zodiac)
